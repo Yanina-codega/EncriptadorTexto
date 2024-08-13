@@ -16,6 +16,7 @@ body{
 }
 main{
     display: flex;
+    padding: 0 0 20px 0 ;
 }
 /*Logo de alura*/
 .header__logo{
